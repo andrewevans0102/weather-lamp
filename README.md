@@ -2,7 +2,7 @@
 
 ![alt text](./connected_lamp.jpg)
 
-This is a project where you can build a Weather Lamp with a Raspberry Pi. This goes with my blog post and YouTube video on the same topic. I have full instructions on how to setup this project in my blog post. Please refer to the information below and the blog post if you'd like to build this yourself.
+This is a project where you can build a Weather Lamp with a Raspberry Pi. This goes with my [blog post](https://rhythmandbinary.com/post/2021-02-28-raspberry-pi-iot-weather-lamp) and YouTube video on the same topic. I have full instructions on how to setup this project in my blog post. Please refer to the information below and the blog post if you'd like to build this yourself.
 
 ## Materials
 
